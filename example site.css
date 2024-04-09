@@ -5,3 +5,20 @@ body {
 button {
     font-size: 30px;
 }
+input {
+    width: 30px;
+    display: 30px;
+}
+.btn {
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    margin: 15px;
+}
+.container {
+    background-color: blue
+}
+span {
+    background-color: gold
+}
